@@ -274,6 +274,10 @@ tools:
     cores: 5
     mem: 5
 
+  toolshed.g2.bx.psu.edu/repos/bgruening/3dtrees_metadata/3dtrees_metadata/.*:
+    cores: 5
+    mem: 5
+
   toolshed.g2.bx.psu.edu/repos/bgruening/3dtrees_tile_merge/3dtrees_tile_merge/.*:
     cores: 10
     mem: 20
